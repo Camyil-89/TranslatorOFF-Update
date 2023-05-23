@@ -196,12 +196,6 @@
           <Size>15360</Size>
         </FileInfo>
         <FileInfo>
-          <Path>\settings.xml</Path>
-          <Url>0.0\settings.xml</Url>
-          <Hash>893480180822c49e5a2711ac3dc87ce2</Hash>
-          <Size>1190</Size>
-        </FileInfo>
-        <FileInfo>
           <Path>\TranslatorOFF.API.dll</Path>
           <Url>0.0\TranslatorOFF.API.dll</Url>
           <Hash>fbeaa3c9af1c3900b7ee19f88b5c5965</Hash>
