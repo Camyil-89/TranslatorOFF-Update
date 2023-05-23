@@ -214,12 +214,6 @@
           <Size>12992</Size>
         </FileInfo>
         <FileInfo>
-          <Path>\TranslatorOFF.deps.json</Path>
-          <Url>0.0\TranslatorOFF.deps.json</Url>
-          <Hash>59230859c4d7e860f47c28fbcbbbc98b</Hash>
-          <Size>92808</Size>
-        </FileInfo>
-        <FileInfo>
           <Path>\TranslatorOFF.dll</Path>
           <Url>0.0\TranslatorOFF.dll</Url>
           <Hash>e58dd08b56b680a35a28e4ec7a844576</Hash>
