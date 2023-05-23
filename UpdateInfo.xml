@@ -208,12 +208,6 @@
           <Size>9728</Size>
         </FileInfo>
         <FileInfo>
-          <Path>\TranslatorOFF.API.pdb</Path>
-          <Url>0.0\TranslatorOFF.API.pdb</Url>
-          <Hash>cc152613ef702858e3546d0660890854</Hash>
-          <Size>12992</Size>
-        </FileInfo>
-        <FileInfo>
           <Path>\TranslatorOFF.dll</Path>
           <Url>0.0\TranslatorOFF.dll</Url>
           <Hash>e58dd08b56b680a35a28e4ec7a844576</Hash>
@@ -224,12 +218,6 @@
           <Url>0.0\TranslatorOFF.exe</Url>
           <Hash>edafa60071e4445b7d082be94f38b715</Hash>
           <Size>216064</Size>
-        </FileInfo>
-        <FileInfo>
-          <Path>\TranslatorOFF.pdb</Path>
-          <Url>0.0\TranslatorOFF.pdb</Url>
-          <Hash>ab09673bcffb9150298aea4452a39c21</Hash>
-          <Size>32192</Size>
         </FileInfo>
         <FileInfo>
           <Path>\TranslatorOFF.runtimeconfig.json</Path>
