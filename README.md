@@ -23,6 +23,9 @@ TranslatorOFF supports languages that are available on translation sites (Google
 ## Images
 
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/12b21d3d-3ef7-4b5f-a8de-e89c6bb72471)
+
+### Settings
+
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/abee46eb-bab0-4389-8343-a6d47db1ae6f)
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/19de6aae-0bcd-4003-ad07-d8c64124f71f)
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/ee4d305b-06bb-4c7d-b8e2-a635284b112a)
