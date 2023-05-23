@@ -8,6 +8,15 @@ To install, download the setup.zip archive and run setup.exe. After installation
 
 [setup.zip](https://github.com/Camyil-89/TranslatorOFF-Update/files/11548264/setup.zip)
 
+## Translators
+
+| Translator Name | Speed of Work | Translation Accuracy | Description |
+|-----------------|---------------|----------------------|-------------|
+|DeepL|High|High|95% of the tests of the application were conducted with the translator DeepL, it seemed to me the fastest and most accurate of all. |
+|Google|Medium|Medium|Often you are required to verify that you are not a robot. Such a feature as highlighting the last sentence does not work correctly.|
+|Papago|Medium|Medium|I hardly ever used Papago.|
+
+> Personally, I like DeepL best, it's quite fast and accurate in translation, especially if you use the translation history.
 
 ## Images
 
