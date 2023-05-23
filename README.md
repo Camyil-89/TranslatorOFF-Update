@@ -10,6 +10,8 @@ To install, download the setup.zip archive and run setup.exe. After installation
 
 ## Translators
 
+TranslatorOFF supports languages that are available on translation sites (Google, Papago, DeepL).
+
 | Translator Name | Speed of Work | Translation Accuracy | Description |
 |-----------------|---------------|----------------------|-------------|
 |DeepL|High|High|95% of the tests of the application were conducted with the translator DeepL, it seemed to me the fastest and most accurate of all. |
