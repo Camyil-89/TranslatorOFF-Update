@@ -30,3 +30,4 @@ TranslatorOFF supports languages that are available on translation sites (Google
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/19de6aae-0bcd-4003-ad07-d8c64124f71f)
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/ee4d305b-06bb-4c7d-b8e2-a635284b112a)
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/e8e3b7b3-0e93-49c8-8426-5f321feb7d95)
+![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/0670979c-0712-4bbc-9e4a-4cdf637fe609)
