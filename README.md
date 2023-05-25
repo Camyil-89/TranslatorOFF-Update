@@ -2,7 +2,7 @@
 
 > The application is designed to translate text from the clipboard. It is suitable for translating games (visual novels) where the text is automatically or manually copied to the clipboard.
 
-!(gameplay.gif)
+![gameplay](gameplay.gif)
 
 ## Install
 
