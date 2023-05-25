@@ -31,14 +31,3 @@ TranslatorOFF supports languages that are available on translation sites (Google
 |CPU|Any||
 |Storage|40 mb|After downloading you will need to install the WebDriver it will take about 10-15 mb and the application will weigh about 20-30 mb|
 |Browser|Microsoft Edge|It is installed as standard on all windows 10|
-
-## Images
-
-![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/12b21d3d-3ef7-4b5f-a8de-e89c6bb72471)
-
-### Settings
-
-![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/abee46eb-bab0-4389-8343-a6d47db1ae6f)
-![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/19de6aae-0bcd-4003-ad07-d8c64124f71f)
-![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/ee4d305b-06bb-4c7d-b8e2-a635284b112a)
-![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/e8e3b7b3-0e93-49c8-8426-5f321feb7d95)
