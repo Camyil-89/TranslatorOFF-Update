@@ -29,5 +29,5 @@ TranslatorOFF supports languages that are available on translation sites (Google
 |OS|Windwos 10| Software testing was performed on Windwos 10|
 |RAM|128 mb||
 |CPU|Any||
-|Storage|40 mb|After downloading you will need to install the WebDriver it will take about 10-15 mb and the application will weigh about 20-30 mb|
+|Storage|30 mb|After downloading you will need to install the WebDriver it will take about 10-15 mb and the application will weigh about 20-30 mb|
 |Browser|Microsoft Edge|It is installed as standard on all windows 10|
