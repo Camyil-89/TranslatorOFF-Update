@@ -4,7 +4,7 @@
 
 ![gameplay](gameplay.gif)
 
-## Install
+## Installation
 
 To install, download the setup.zip archive and run setup.exe. After installation, if the version is out of date, the application will prompt you to update. It is desirable not to install TranslatorOFF into system folders to avoid problems with updates.
 
