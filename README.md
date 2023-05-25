@@ -22,6 +22,16 @@ TranslatorOFF supports languages that are available on translation sites (Google
 
 > Personally, I like DeepL best, it's quite fast and accurate in translation, especially if you use the translation history.
 
+## Technical Specifications
+
+|Type|Requirements| Description|
+|-|-|-|
+|OS|Windwos 10| Software testing was performed on Windwos 10|
+|RAM|128 mb||
+|CPU|Any||
+|Storage|40 mb|After downloading you will need to install the WebDriver it will take about 10-15 mb and the application will weigh about 20-30 mb|
+|Browser|Microsoft Edge|It is installed as standard on all windows 10|
+
 ## Images
 
 ![image](https://github.com/Camyil-89/TranslatorOFF-Update/assets/76705837/12b21d3d-3ef7-4b5f-a8de-e89c6bb72471)
